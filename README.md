@@ -1,4 +1,4 @@
-# Reinforcement Learning: Custom Q-Update Rule (Dr. Noori's Formula)
+# Reinforcement Learning: Custom Q-Update Rule (RL with Dr. Noori)
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![NumPy](https://img.shields.io/badge/NumPy-1.21%2B-orange)
